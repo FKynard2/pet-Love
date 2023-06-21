@@ -1,0 +1,138 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "74305ffb-4c2e-4c03-8650-26a26412ad21": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19263318720808__74305ffb-4c2e-4c03-8650-26a26412ad21-16857574411e66e39b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--19263318720808__74305ffb-4c2e-4c03-8650-26a26412ad21-16857574411e66e39b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><em>EASY TO APPLY - Just Stick & Go! <\/em><\/h2><p><strong>PET ACCESSORIES<\/strong>: Please choose your placement wisely prior to adhering. Pulling off can cause loss of decal grip. Once it’s on-it’s on! Glue cures within 24-48 hours, but no need to wait.  Wash hands thoroughly after use.  <em>NOT TO BE INGESTED - NOT FOR PETS WHO EAT THINGS THEY ARE NOT SUPPOSED TO. CAN BREAK INTO SMALL PARTICLES.<\/em><\/p><p><strong>CAR DECALS<\/strong>: Please make sure to know exactly where you are going to place. Pulling off a hard surface such as a window sill will damage the decal.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19263318720808__74305ffb-4c2e-4c03-8650-26a26412ad21-16857574411e66e39b-0",
+        "template--19263318720808__74305ffb-4c2e-4c03-8650-26a26412ad21-16857574411e66e39b-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
+    "bd1a2013-458e-4836-948a-259d5f6fb7b3": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Haw to apply decal.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1a0e0219-9234-4101-accb-37bdf13b7162": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19263318720808__1a0e0219-9234-4101-accb-37bdf13b7162-168633141844ba0aa2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Everything You Need!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19263318720808__1a0e0219-9234-4101-accb-37bdf13b7162-168633141844ba0aa2-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our decals come in a sheet with everything you need to create a unique design for your car or pet apparel.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "ea2a86e3-77b4-42db-85a5-95398d3aba49": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW FOR JUST $9.99!",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal"
+          }
+        }
+      },
+      "block_order": [
+        "template--19263318720808__1a0e0219-9234-4101-accb-37bdf13b7162-168633141844ba0aa2-0",
+        "template--19263318720808__1a0e0219-9234-4101-accb-37bdf13b7162-168633141844ba0aa2-1",
+        "ea2a86e3-77b4-42db-85a5-95398d3aba49"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/whitecardecalpackageWP_627e8955-1cc4-4ba3-ba7c-6ff569b7d702.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9a18f55c-2eb6-45dd-8349-25b951301dd1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19263318720808__9a18f55c-2eb6-45dd-8349-25b951301dd1-1686331681e0d26281-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--19263318720808__9a18f55c-2eb6-45dd-8349-25b951301dd1-1686331681e0d26281-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>PATENT PENDING. Disclaimer: <\/strong><\/em><em>Your purchase and use of this product is at your own risk. The manufacturer\/retailer(s) are not liable for any direct, incidental, consequential, indirect or punitive damages arising out of your use of this product. This product is provided on an \"as is\" basis without warranties of any kind, either expressed or implied, including, without limitation, warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge by your use of the product, that your use is at your sole risk, that you assume full responsibility for all costs associated with the use of this product, and that the manufacturer\/retailer(s) shall not be liable for any damages of any kind related to your use of the product.<\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19263318720808__9a18f55c-2eb6-45dd-8349-25b951301dd1-1686331681e0d26281-0",
+        "template--19263318720808__9a18f55c-2eb6-45dd-8349-25b951301dd1-1686331681e0d26281-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "74305ffb-4c2e-4c03-8650-26a26412ad21",
+    "bd1a2013-458e-4836-948a-259d5f6fb7b3",
+    "1a0e0219-9234-4101-accb-37bdf13b7162",
+    "9a18f55c-2eb6-45dd-8349-25b951301dd1"
+  ]
+}

@@ -1,0 +1,1085 @@
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reflective Paw Print Decal Mega Pack                                                                                   For Car & Pets!",
+            "heading_size": "h2"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY FOR JUST $9.99!",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/0000000000000000000000000000000000000000000000000000_FIXED_REDONE_2_FOR_M_SHOPIFY_POND.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "a9357418-d6be-433a-80bf-ccb6a416a846": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19434057007400__a9357418-d6be-433a-80bf-ccb6a416a846-1687273273dc06da8c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reflect Your Pet Love Day & Night!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19434057007400__a9357418-d6be-433a-80bf-ccb6a416a846-1687273273dc06da8c-1": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "template--19434057007400__a9357418-d6be-433a-80bf-ccb6a416a846-1687273273dc06da8c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19434057007400__a9357418-d6be-433a-80bf-ccb6a416a846-1687273273dc06da8c-0",
+        "template--19434057007400__a9357418-d6be-433a-80bf-ccb6a416a846-1687273273dc06da8c-1",
+        "template--19434057007400__a9357418-d6be-433a-80bf-ccb6a416a846-1687273273dc06da8c-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "427d0343-7ff9-4c96-8b7c-d848a5645b95": {
+      "type": "collage",
+      "blocks": {
+        "template--19434057007400__427d0343-7ff9-4c96-8b7c-d848a5645b95-1687273379564a1e6d-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3_PAW_GLOW_CROPPED.jpg"
+          }
+        },
+        "template--19434057007400__427d0343-7ff9-4c96-8b7c-d848a5645b95-1687273379564a1e6d-2": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19434057007400__427d0343-7ff9-4c96-8b7c-d848a5645b95-1687273379564a1e6d-0",
+        "template--19434057007400__427d0343-7ff9-4c96-8b7c-d848a5645b95-1687273379564a1e6d-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "802f6cbb-63b0-4885-af01-d846cecda88f": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19259011957032__802f6cbb-63b0-4885-af01-d846cecda88f-16857310365fcdac4d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--19259011957032__802f6cbb-63b0-4885-af01-d846cecda88f-16857310365fcdac4d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em>Our fun, colorful decals are paw-fect for showing off your pet love! <\/em><\/h3><p>Our mega decal packs come with multiple paw decals and stars - just attach the large pawprint to your car window and match your pet apparel by attaching the smaller pawprint or star for a unique look. Our decals are different - they're waterproof, plus they won't fade or peel like most other decals! <\/p><p><\/p>"
+          }
+        },
+        "template--19259011957032__802f6cbb-63b0-4885-af01-d846cecda88f-16857310365fcdac4d-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "BUY NOW - JUST $9.99",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011957032__802f6cbb-63b0-4885-af01-d846cecda88f-16857310365fcdac4d-0",
+        "template--19259011957032__802f6cbb-63b0-4885-af01-d846cecda88f-16857310365fcdac4d-1",
+        "template--19259011957032__802f6cbb-63b0-4885-af01-d846cecda88f-16857310365fcdac4d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "9485edcf-f9ae-4586-aa30-cdddf873b831": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--19434057007400__9485edcf-f9ae-4586-aa30-cdddf873b831-1687266316059765ba-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--19434057007400__9485edcf-f9ae-4586-aa30-cdddf873b831-1687266316059765ba-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--19434057007400__9485edcf-f9ae-4586-aa30-cdddf873b831-1687266316059765ba-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19434057007400__9485edcf-f9ae-4586-aa30-cdddf873b831-1687266316059765ba-0",
+        "template--19434057007400__9485edcf-f9ae-4586-aa30-cdddf873b831-1687266316059765ba-1",
+        "template--19434057007400__9485edcf-f9ae-4586-aa30-cdddf873b831-1687266316059765ba-2"
+      ],
+      "custom_css": [
+        "div.image-with-text__text-item {display: none;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/CAR_DOG_PAW.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "6732160d-919f-4fd7-9819-9004a5902d2c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19434057007400__6732160d-919f-4fd7-9819-9004a5902d2c-16872661293dfc4c3d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--19434057007400__6732160d-919f-4fd7-9819-9004a5902d2c-16872661293dfc4c3d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Now you can show off your pet love day...or NIGHT!<\/p>"
+          }
+        },
+        "template--19434057007400__6732160d-919f-4fd7-9819-9004a5902d2c-16872661293dfc4c3d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW - JUST $9.99",
+            "button_link": "shopify:\/\/products\/blue-paw-print-decal-pack",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19434057007400__6732160d-919f-4fd7-9819-9004a5902d2c-16872661293dfc4c3d-0",
+        "template--19434057007400__6732160d-919f-4fd7-9819-9004a5902d2c-16872661293dfc4c3d-1",
+        "template--19434057007400__6732160d-919f-4fd7-9819-9004a5902d2c-16872661293dfc4c3d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Mega Decal Sets - Choose from 3 Color Options",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "paw-print-reflective-decal",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 40
+      }
+    },
+    "e0731116-bac7-4d43-b249-8b70ee06991f": {
+      "type": "slideshow",
+      "blocks": {
+        "bb1812e4-928c-4d83-8ff7-ada318cf418e": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Refective_Tag_waterproof.png",
+            "heading": "Weather Proof, Water Proof & Car Wash Proof!",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "BUY NOW FOR JUST $9.99",
+            "link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "63bbd839-6ecd-46f5-8c44-aa4423f30093": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0000000000000000000000000000000000000000000000000000000_LAST.jpg",
+            "heading": "Won't Fade Like Other Decals!!",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "BUY NOW FOR JUST $9.99",
+            "link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "a233140e-6ad0-4f4b-af11-9a2b43eb7b4b": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wont_peel_or_fade.jpg",
+            "heading": "Show Off Your Pet Love                          Day or Night!",
+            "heading_size": "h1",
+            "subheading": "<em><strong>Won't Peel!<\/strong><\/em>",
+            "button_label": "BUY NOW - JUST $9.99!",
+            "link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "bb1812e4-928c-4d83-8ff7-ada318cf418e",
+        "63bbd839-6ecd-46f5-8c44-aa4423f30093",
+        "a233140e-6ad0-4f4b-af11-9a2b43eb7b4b"
+      ],
+      "custom_css": [
+        ".banner__box .banner__heading + * {margin-top: 1rem; font-size: 3em; color: #f9f7f3;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "b0382f8d-b71d-4fc3-ab9d-7f319b31cd18": {
+      "type": "rich-text",
+      "blocks": {
+        "137ae8d0-dd7b-421c-acc1-04aa8317275b": {
+          "type": "heading",
+          "settings": {
+            "heading": "What's Included in Each Set?",
+            "heading_size": "h1"
+          }
+        },
+        "814fc615-0e71-402b-aa97-7254fe45edde": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Each set comes with  one large paw print, 2 smaller paw prints and 4 stars, so you can mix and match to create a unique design!<\/p>"
+          }
+        },
+        "cf438e44-c2bc-4e03-96d4-632de98682f2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "137ae8d0-dd7b-421c-acc1-04aa8317275b",
+        "814fc615-0e71-402b-aa97-7254fe45edde",
+        "cf438e44-c2bc-4e03-96d4-632de98682f2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "4fb8e567-99c9-44da-8b5e-ab6a6f175d7b": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19259011957032__4fb8e567-99c9-44da-8b5e-ab6a6f175d7b-1685732451ffcc33c9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "title": "1 Large Paw Print For Your Car",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19259011957032__4fb8e567-99c9-44da-8b5e-ab6a6f175d7b-1685732451ffcc33c9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.png",
+            "title": "2 Smaller Paw Prints for Pet Apparel",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19259011957032__4fb8e567-99c9-44da-8b5e-ab6a6f175d7b-1685732451ffcc33c9-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4_stars.png",
+            "title": "4 Star Decals to Mix & Match",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011957032__4fb8e567-99c9-44da-8b5e-ab6a6f175d7b-1685732451ffcc33c9-0",
+        "template--19259011957032__4fb8e567-99c9-44da-8b5e-ab6a6f175d7b-1685732451ffcc33c9-1",
+        "template--19259011957032__4fb8e567-99c9-44da-8b5e-ab6a6f175d7b-1685732451ffcc33c9-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eb287b2f-70c4-4b53-9ee4-b402b68614d3": {
+      "type": "rich-text",
+      "blocks": {
+        "328e30f4-5f23-4e62-87dc-e8f96f4d7f53": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Decals Are Better!",
+            "heading_size": "h1"
+          }
+        },
+        "8bf3c5fd-0647-4092-9b3b-8ff07252b228": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em><strong>Our decals are new to the market, using high quality ultra strong reflective adhesive. <\/strong><\/em><em> <\/em><\/h3><p>They are proudly produced in the USA under close supervision.  Our decals are vibrant, weatherproof and waterproof.<\/p>"
+          }
+        },
+        "c8516ba4-bca7-48cd-b47c-3f03ae1f6ff4": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "328e30f4-5f23-4e62-87dc-e8f96f4d7f53",
+        "8bf3c5fd-0647-4092-9b3b-8ff07252b228",
+        "c8516ba4-bca7-48cd-b47c-3f03ae1f6ff4"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "8e631b29-98eb-47db-9ffd-9be40c24a637": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19259011957032__8e631b29-98eb-47db-9ffd-9be40c24a637-1685732451ffcc33c9-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fushia_check.png",
+            "title": "Weather Proof",
+            "text": "<p>Our decals are weather proof and water proof! Perfect for adhering to car windows, pet harnesses & outerwear!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "fd8addbc-735c-4662-ae5a-0b1daf95a89b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fushia_check.png",
+            "title": "Don't Peel or Fade",
+            "text": "<p>Our products don't peel or fade like most others. They're produced in the USA with high quality materials.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19259011957032__8e631b29-98eb-47db-9ffd-9be40c24a637-1685732451ffcc33c9-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fushia_check.png",
+            "title": "Ultra Strong",
+            "text": "<p>Our decals feature an ultra-strong reflective adhesive that can adhere to not only car windows but an array of outerwear pet fabric.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011957032__8e631b29-98eb-47db-9ffd-9be40c24a637-1685732451ffcc33c9-1",
+        "fd8addbc-735c-4662-ae5a-0b1daf95a89b",
+        "template--19259011957032__8e631b29-98eb-47db-9ffd-9be40c24a637-1685732451ffcc33c9-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "VIEW MEGA PACKS",
+        "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6978e285-30c2-4143-b3a2-bcec2e3b442c": {
+      "type": "video",
+      "settings": {
+        "heading": "Beautifully Reflective, Day or Night",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/how to apply.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "eb2a65d7-f3c6-4dd5-adb9-7285577d5761": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19259011957032__eb2a65d7-f3c6-4dd5-adb9-7285577d5761-16857310365fcdac4d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "More Reflect, More Protect!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19259011957032__eb2a65d7-f3c6-4dd5-adb9-7285577d5761-16857310365fcdac4d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When you attach our decals to your pet's apparel, it can help you and your pet be seen further ahead on walks, especially in dim & low lit areas! They make any accessory safer. <\/p><p><strong>JUST STICK & GO! Easy to apply! Stays on! <\/strong><\/p>"
+          }
+        },
+        "template--19259011957032__eb2a65d7-f3c6-4dd5-adb9-7285577d5761-16857310365fcdac4d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW - JUST $9.99",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011957032__eb2a65d7-f3c6-4dd5-adb9-7285577d5761-16857310365fcdac4d-0",
+        "template--19259011957032__eb2a65d7-f3c6-4dd5-adb9-7285577d5761-16857310365fcdac4d-1",
+        "template--19259011957032__eb2a65d7-f3c6-4dd5-adb9-7285577d5761-16857310365fcdac4d-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "e7dabcb5-21b7-424d-a27d-dc6550417f0c": {
+      "type": "slideshow",
+      "blocks": {
+        "4037c083-699f-4ed0-a3e7-2873d4f68c78": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/for_cats_and_dogs.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--19259011957032__e7dabcb5-21b7-424d-a27d-dc6550417f0c-16863208525e305546-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_day_and_nighyt.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "4037c083-699f-4ed0-a3e7-2873d4f68c78",
+        "template--19259011957032__e7dabcb5-21b7-424d-a27d-dc6550417f0c-16863208525e305546-0"
+      ],
+      "custom_css": [],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "3f47b4b2-a048-4c65-97e5-3f9eadcd8490": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "template--19259011957032__3f47b4b2-a048-4c65-97e5-3f9eadcd8490-1685754365f2053bcc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Helps You and Your Pet Be Seen At Night!",
+            "heading_size": "h1"
+          }
+        },
+        "088b5683-ea64-4f3d-8560-d9ac416d9f45": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<em><strong>Especially In Dim & Low Lit Areas!<\/strong><\/em>",
+            "text_style": "body"
+          }
+        },
+        "template--19259011957032__3f47b4b2-a048-4c65-97e5-3f9eadcd8490-1685754365f2053bcc-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "BUY NOW FOR JUST $9.99",
+            "button_link_1": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011957032__3f47b4b2-a048-4c65-97e5-3f9eadcd8490-1685754365f2053bcc-0",
+        "088b5683-ea64-4f3d-8560-d9ac416d9f45",
+        "template--19259011957032__3f47b4b2-a048-4c65-97e5-3f9eadcd8490-1685754365f2053bcc-2"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/dog_day.png",
+        "image_2": "shopify:\/\/shop_images\/dog_night.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "inverse",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "c1b9efec-f262-4fa1-9dca-d6dbd830015f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What comes in the set?",
+            "icon": "question_mark",
+            "row_content": "<p>Each set comes with a large paw print, 2 smaller paw prints and 4 stars.<\/p>",
+            "page": ""
+          }
+        },
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do they peel off?",
+            "icon": "question_mark",
+            "row_content": "<p>Our decals feature an ultra-strong reflective adhesive that can adhere to a  variety of surfaces. <\/p>",
+            "page": ""
+          }
+        },
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is the material safe for pets?",
+            "icon": "question_mark",
+            "row_content": "<p>As with any product, please make sure to supervise your pet when they are wearing any accessories. <\/p>",
+            "page": ""
+          }
+        },
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much is shipping?",
+            "icon": "question_mark",
+            "row_content": "<p>We offer FREE First Class Mail on all orders!<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-0",
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-1",
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-2",
+        "template--19259011957032__c1b9efec-f262-4fa1-9dca-d6dbd830015f-1685732122a97d12e3-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d21ee235-06be-4672-ae58-2ca9d6141218": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "ff752d8a-9d67-42ec-a7b1-bea2b1beac1a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog_day_and_nighyt.png",
+            "heading": "You and Your Pet Can Be Seen at Night",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "BUY NOW FOR JUST $9.99",
+            "link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2ad7d946-0dc6-4c3b-bf22-b14ea6093d92": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "ff752d8a-9d67-42ec-a7b1-bea2b1beac1a",
+        "2ad7d946-0dc6-4c3b-bf22-b14ea6093d92"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "d63e3535-d5b9-4abc-85b7-3a1d3b1041e3": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "acfacfb8-140d-40f6-924f-1a8059bfc440": {
+          "type": "heading",
+          "settings": {
+            "heading": "Take Your Pet Love on the Road!",
+            "heading_size": "h1"
+          }
+        },
+        "f9469aac-88b3-4fce-a1f2-1bf9a18bf330": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our paw print decals are perfect for your car and help raise awareness of the importance of responsible pet ownership. It's a small yet impactful way to promote pet adoption, animal welfare, and the overall well-being of our furry companions.<\/p>"
+          }
+        },
+        "74aaf0ae-eb2d-4922-b1f0-c86d828f9a63": {
+          "type": "button",
+          "settings": {
+            "button_label": "BUY NOW",
+            "button_link": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "acfacfb8-140d-40f6-924f-1a8059bfc440",
+        "f9469aac-88b3-4fce-a1f2-1bf9a18bf330",
+        "74aaf0ae-eb2d-4922-b1f0-c86d828f9a63"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 20
+      }
+    },
+    "29469a8b-5d3c-43ce-90fe-0dc45055cd7a": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "fc1c9a0e-0aa5-4524-b50d-b32ea62084a6": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/vimeo.com\/834789972?share=copy",
+            "description": "Describe the video"
+          }
+        },
+        "template--19259011957032__29469a8b-5d3c-43ce-90fe-0dc45055cd7a-16857314843136e035-1": {
+          "type": "product",
+          "settings": {
+            "product": "white-paw-print-decal-pack",
+            "second_image": false
+          }
+        },
+        "template--19259011957032__29469a8b-5d3c-43ce-90fe-0dc45055cd7a-16857314843136e035-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "paw-print-reflective-decal"
+          }
+        }
+      },
+      "block_order": [
+        "fc1c9a0e-0aa5-4524-b50d-b32ea62084a6",
+        "template--19259011957032__29469a8b-5d3c-43ce-90fe-0dc45055cd7a-16857314843136e035-1",
+        "template--19259011957032__29469a8b-5d3c-43ce-90fe-0dc45055cd7a-16857314843136e035-2"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "879e5829-1839-4f5a-b9eb-1ce40f2ea460": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "0d0eca13-638a-420f-ac91-7483c7fed854": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "225d01a8-ad3d-454e-8032-046e063d9e1b": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>EASY TO SEE AT NIGHT<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "2a20a76b-8bd5-42c8-a372-a3696d013193": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary_1": false,
+            "button_label_2": "BUY NOW",
+            "button_link_2": "shopify:\/\/collections\/paw-print-reflective-decal",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "0d0eca13-638a-420f-ac91-7483c7fed854",
+        "225d01a8-ad3d-454e-8032-046e063d9e1b",
+        "2a20a76b-8bd5-42c8-a372-a3696d013193"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3.png",
+        "image_2": "shopify:\/\/shop_images\/4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "7361fccb-a90e-47ac-809f-505d23bc8ebe": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "45103e38-24af-4bf5-aa58-c2ece95355d6": {
+          "type": "product",
+          "settings": {
+            "product": "green-paw-print-decal-pack",
+            "second_image": false
+          }
+        },
+        "7487abaa-5755-4ca3-8bd1-900dd0b0c570": {
+          "type": "collection",
+          "settings": {
+            "collection": "paw-print-reflective-decal"
+          }
+        },
+        "44121178-a49f-44c4-ba37-417d98bd8d35": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+            "description": "Describe the video"
+          }
+        }
+      },
+      "block_order": [
+        "45103e38-24af-4bf5-aa58-c2ece95355d6",
+        "7487abaa-5755-4ca3-8bd1-900dd0b0c570",
+        "44121178-a49f-44c4-ba37-417d98bd8d35"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "right",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1347c667-b2b2-4b0c-bdc2-44d8ece85031": {
+      "type": "video",
+      "settings": {
+        "heading": "Pet Love",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/A428AFEC-E813-4250-9E47-DAA5620CC46E (3).mov",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d31aedff-29e9-4b65-971e-1a207856af7a": {
+      "type": "slideshow",
+      "blocks": {
+        "template--19434057007400__d31aedff-29e9-4b65-971e-1a207856af7a-168727211882102890-1": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--19434057007400__d31aedff-29e9-4b65-971e-1a207856af7a-168727211882102890-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "image-with-text",
+    "a9357418-d6be-433a-80bf-ccb6a416a846",
+    "427d0343-7ff9-4c96-8b7c-d848a5645b95",
+    "802f6cbb-63b0-4885-af01-d846cecda88f",
+    "9485edcf-f9ae-4586-aa30-cdddf873b831",
+    "6732160d-919f-4fd7-9819-9004a5902d2c",
+    "featured-collection",
+    "e0731116-bac7-4d43-b249-8b70ee06991f",
+    "b0382f8d-b71d-4fc3-ab9d-7f319b31cd18",
+    "4fb8e567-99c9-44da-8b5e-ab6a6f175d7b",
+    "eb287b2f-70c4-4b53-9ee4-b402b68614d3",
+    "8e631b29-98eb-47db-9ffd-9be40c24a637",
+    "6978e285-30c2-4143-b3a2-bcec2e3b442c",
+    "eb2a65d7-f3c6-4dd5-adb9-7285577d5761",
+    "e7dabcb5-21b7-424d-a27d-dc6550417f0c",
+    "3f47b4b2-a048-4c65-97e5-3f9eadcd8490",
+    "c1b9efec-f262-4fa1-9dca-d6dbd830015f",
+    "d21ee235-06be-4672-ae58-2ca9d6141218",
+    "d63e3535-d5b9-4abc-85b7-3a1d3b1041e3",
+    "29469a8b-5d3c-43ce-90fe-0dc45055cd7a",
+    "879e5829-1839-4f5a-b9eb-1ce40f2ea460",
+    "7361fccb-a90e-47ac-809f-505d23bc8ebe",
+    "1347c667-b2b2-4b0c-bdc2-44d8ece85031",
+    "d31aedff-29e9-4b65-971e-1a207856af7a"
+  ]
+}

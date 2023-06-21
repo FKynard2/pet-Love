@@ -1,0 +1,139 @@
+{
+  "sections": {
+    "main-collection-banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "background-1"
+      }
+    },
+    "main-collection-product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 8,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "f4fcffaf-699b-45fb-b16b-6b1797cce615": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19259011891496__f4fcffaf-699b-45fb-b16b-6b1797cce615-1686326641ef94bb70-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Decals are Better!",
+            "heading_size": "h1"
+          }
+        },
+        "template--19259011891496__f4fcffaf-699b-45fb-b16b-6b1797cce615-1686326641ef94bb70-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our decals are new to the market, using high quality ultra strong reflective adhesive. They are proudly produced in the USA under close supervision. Our decals are vibrant, weather proof and water proof.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011891496__f4fcffaf-699b-45fb-b16b-6b1797cce615-1686326641ef94bb70-0",
+        "template--19259011891496__f4fcffaf-699b-45fb-b16b-6b1797cce615-1686326641ef94bb70-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "fa7d9bd7-d4b2-4451-b801-0601692eeace": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19259011891496__fa7d9bd7-d4b2-4451-b801-0601692eeace-1685736274a204de9f-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fushia_check.png",
+            "title": "Weatherproof",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19259011891496__fa7d9bd7-d4b2-4451-b801-0601692eeace-1685736274a204de9f-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fushia_check.png",
+            "title": "Don't Peel or Fade like Most Others",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19259011891496__fa7d9bd7-d4b2-4451-b801-0601692eeace-1685736274a204de9f-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fushia_check.png",
+            "title": "Vibrant Colors",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19259011891496__fa7d9bd7-d4b2-4451-b801-0601692eeace-1685736274a204de9f-0",
+        "template--19259011891496__fa7d9bd7-d4b2-4451-b801-0601692eeace-1685736274a204de9f-1",
+        "template--19259011891496__fa7d9bd7-d4b2-4451-b801-0601692eeace-1685736274a204de9f-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "aa19629e-2348-4056-a3cd-3bf1a9654691": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Pawprints voiceover landscape.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main-collection-banner",
+    "main-collection-product-grid",
+    "f4fcffaf-699b-45fb-b16b-6b1797cce615",
+    "fa7d9bd7-d4b2-4451-b801-0601692eeace",
+    "aa19629e-2348-4056-a3cd-3bf1a9654691"
+  ]
+}

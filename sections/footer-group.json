@@ -1,0 +1,97 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 44,
+        "padding_bottom": 8
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "b3016ead-a01c-446e-98dc-502bb1609f28": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        },
+        "7796a01f-cc71-473b-b17e-aedae0df09ef": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Customer Service",
+            "menu": "footer-2"
+          }
+        },
+        "19f31ca2-41d1-4503-90a7-a4ccfa7d26da": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/max_white_backgrd.png",
+            "image_width": 150,
+            "alignment": "center"
+          }
+        },
+        "28581626-c7d0-4e5b-8b71-c793386cd22b": {
+          "type": "text",
+          "settings": {
+            "heading": "About Us",
+            "subtext": "<p>We sell weatherproof and reflective adhesive decals.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b3016ead-a01c-446e-98dc-502bb1609f28",
+        "7796a01f-cc71-473b-b17e-aedae0df09ef",
+        "19f31ca2-41d1-4503-90a7-a4ccfa7d26da",
+        "28581626-c7d0-4e5b-8b71-c793386cd22b"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 44,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "newsletter",
+    "footer"
+  ]
+}
