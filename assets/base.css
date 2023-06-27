@@ -142,7 +142,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section slideshow-compo
   }
 
   .page-width--narrow {
-    max-width: 72.6rem;
+    max-width: 73.6rem;
     padding: 0;
   }
 
@@ -1132,6 +1132,12 @@ summary::-webkit-details-marker {
   object-fit: cover;
   object-position: center center;
   transition: opacity 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+#Banner-template--19434057007400__cf2926e3-1129-491e-8bf3-22ae097b9450 > div:nth-child(1) > img{
+  object-fit: fill;
+}
+#Banner-template--19434057007400__cf2926e3-1129-491e-8bf3-22ae097b9450 > div:nth-child(2) > img{
+  object-fit: fill;
 }
 
 .media--square {

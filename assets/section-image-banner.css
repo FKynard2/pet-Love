@@ -3,6 +3,13 @@
   position: relative;
   flex-direction: column;
 }
+/* This is for the box inside the main image banner per the customer and the size she wanted */
+div.banner__content.banner__content--top-left.page-width.scroll-trigger.animate--slide-in
+    > div {
+    max-width: 40rem;
+    min-width: 30rem;
+    padding: 1rem 1.5rem;
+}
 
 .banner__box {
   text-align: center;

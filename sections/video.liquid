@@ -89,12 +89,14 @@
       class="video-section__media deferred-media no-js-hidden gradient global-media-settings{% if section.settings.full_width %} global-media-settings--full-width{% endif %}{% if fix_ratio %} media-fit-cover{% endif %}{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
       data-media-id="{{ video_id }}"
       {% if poster != null %}
-        style="--ratio-percent: {{ 1 | divided_by: poster.aspect_ratio | times: 100 }}%;"
+      
+        style="{% if section.settings.video_size == 'large'%}--ratio-percent:{{ 1 | divided_by: poster.aspect_ratio | times: 100 }}%; {% elsif section.settings.video_size == 'medium' %}--ratio-percent: 28.25% ; width: 50% {% elsif section.settings.video_size == 'small'%} --ratio-percent: 22.25%; width: 35%  {% endif %}"
+        
       {% endif %}
     >
       <button
         id="Deferred-Poster-Modal-{{ video_id }}"
-        class="video-section__poster media deferred-media__poster media--landscape"
+        class="  video-section__poster media deferred-media__poster media--landscape"
         type="button"
         aria-label="{{ alt }}"
       >
@@ -184,7 +186,7 @@
           "label": "t:sections.all.heading_size.options__3.label"
         }
       ],
-      "default": "h1",
+      "default": "h0",
       "label": "t:sections.all.heading_size.label"
     },
     {
@@ -201,6 +203,26 @@
       "type": "video",
       "id": "video",
       "label": "t:sections.video.settings.video.label"
+    },
+      {
+      "type": "select",
+      "id": "video_size",
+      "options": [
+        {
+          "value": "small",
+          "label": "t:sections.all.heading_size.options__1.label"
+        },
+        {
+          "value": "medium",
+          "label": "t:sections.all.heading_size.options__2.label"
+        },
+        {
+          "value": "large",
+          "label": "t:sections.all.heading_size.options__3.label"
+        }
+      ],
+      "default": "medium",
+      "label": "Video Size"
     },
     {
       "type": "header",

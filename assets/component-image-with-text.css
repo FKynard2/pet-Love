@@ -7,14 +7,15 @@
     align-items: center;
 }
 
-.image-with-text-V2-small{
-  max-width: 15rem !important;
+
+.image-with-text-V2-small {
+    max-width: 18rem !important;
 }
-.image-with-text-V2-medium{
-  max-width: 40rem !important;
+.image-with-text-V2-medium {
+    max-width: 40rem !important;
 }
-.image-with-text-V2-large{
-  max-width: 70rem !important;
+.image-with-text-V2-large {
+    max-width: 80rem !important;
 }
 
 .image-with-text-vTwo {
@@ -28,9 +29,9 @@
     .image-with-text__grid--reverse {
         flex-direction: row-reverse;
     }
-    .image-with-text-V2-large{
-  width: 70rem !important;
-}
+    .image-with-text-V2-large {
+        width: 70rem !important;
+    }
 }
 
 .image-with-text__media {
@@ -382,9 +383,9 @@
         padding: 6rem 7rem 7rem;
     }
 }
-
+/* Changed this per the customers request */
 .image-with-text__content > * + * {
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 .image-with-text__content > .image-with-text__text:empty ~ a {
